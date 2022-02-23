@@ -1,1 +1,1 @@
-# odin-recipes
+This project demonstrates my ability to use fundamental Git, Terminal, and HTML. 
