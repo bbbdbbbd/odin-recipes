@@ -1,0 +1,18 @@
+h1 {
+    color: green;
+    background-color: white;
+    font-size: 40px;
+    text-align: center;
+    text-emphasis: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+  }
+  
+li {
+    color: black;
+    background-color: rgb(118, 223, 200);
+    font-size: 20px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+
+  }
